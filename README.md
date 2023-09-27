@@ -1,7 +1,6 @@
 # Generación Automática de Descripciones y Reconstrucción de Señales de Tránsito
 
-![Traffic Signs](traffic-signs.jpg)
-
+![Traffic Signs] :red_car:
 ## Descripción del Proyecto
 
 ### Objetivo
