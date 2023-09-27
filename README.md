@@ -1,8 +1,8 @@
 # Generación Automática de Descripciones y Reconstrucción de Señales de Tránsito :red_car: :vertical_traffic_light:
 
-## Descripción del Proyecto
+## Descripción del Proyecto :camera: :construction:
 
-### Objetivo
+### Objetivo :dart:
 
 Este proyecto se centra en la generación automática de descripciones detalladas de imágenes de señales de tránsito y la reconstrucción de imágenes dañadas mediante el uso de técnicas avanzadas de inteligencia artificial. Las dos principales tareas abordadas son:
 
@@ -10,7 +10,7 @@ Este proyecto se centra en la generación automática de descripciones detallada
 
 2. **Reconstrucción de Imágenes Dañadas**: Utilizamos Redes Generativas Adversariales (GAN) para procesar y reconstruir imágenes dañadas de señales de tránsito. Esta técnica permite restaurar información crítica de manera precisa y eficiente, mejorando la seguridad vial.
 
-### Desarrollo del Modelo
+### Desarrollo del Modelo :hammer:
 
 El proceso de desarrollo del modelo se dividió en las siguientes etapas:
 
@@ -22,7 +22,7 @@ El proceso de desarrollo del modelo se dividió en las siguientes etapas:
 
 4. **Entrenamiento del Modelo**: Empleamos TensorFlow como marco de trabajo para entrenar el modelo propuesto. Afinamos los hiperparámetros para lograr un rendimiento óptimo.
 
-## Impacto y Futuras Aplicaciones
+## Impacto y Futuras Aplicaciones :earth_africa: :rocket:
 
 La combinación de generación automática de descripciones y reconstrucción de señales de tránsito dañadas tiene un impacto directo en la seguridad vial y en la eficiencia de los sistemas de tráfico. Algunas aplicaciones potenciales incluyen:
 
@@ -31,12 +31,13 @@ La combinación de generación automática de descripciones y reconstrucción de
 - Mantenimiento y gestión eficiente de la infraestructura vial.
 - Apoyo en situaciones de emergencia y accidentes de tráfico.
 
-## Conclusión
+## Conclusión :checkered_flag:
 
 Este proyecto ejemplifica el potencial de la inteligencia artificial para abordar desafíos en el ámbito de la señalización vial. La generación automática de descripciones detalladas y la reconstrucción de imágenes dañadas son pasos importantes hacia la mejora de la seguridad y la eficiencia en nuestras carreteras.
 
 ¡Gracias por explorar nuestro proyecto! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros.
 
-## Palabras Clave
+## Desarrollado por: :bookmark_tabs:
+Angie Mogollon
+Jenifer Gómez
 
-Inteligencia Artificial, Redes Neuronales Convolucionales, Redes Generativas Adversariales (GAN), Señales de Tránsito, Procesamiento de Imágenes, Seguridad Vial.
