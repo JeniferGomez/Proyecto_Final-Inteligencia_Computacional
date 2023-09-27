@@ -1,12 +1,12 @@
-# Generación Automática de Descripciones y Reconstrucción de Señales de Tránsito :red_car: :vertical_traffic_light:
+# Clasificación y Reconstrucción de Señales de Tránsito :red_car: :vertical_traffic_light:
 
 ## Descripción del Proyecto :camera: :construction:
 
 ### Objetivo :dart:
 
-Este proyecto se centra en la generación automática de descripciones detalladas de imágenes de señales de tránsito y la reconstrucción de imágenes dañadas mediante el uso de técnicas avanzadas de inteligencia artificial. Las dos principales tareas abordadas son:
+Este proyecto se centra en la clasificación de señales de tránsito y la reconstrucción de imágenes dañadas mediante el uso de técnicas avanzadas de inteligencia artificial. Las dos principales tareas abordadas son:
 
-1. **Generación Automática de Descripciones**: Implementamos modelos de Redes Neuronales Convolucionales (CNN) que pueden crear descripciones precisas a partir de imágenes de señales de tránsito. Esto facilita la interpretación de las señales y tiene aplicaciones en sistemas de asistencia al conductor y gestión del tráfico.
+1. **Clasificación de Señales**: Implementamos modelos de Redes Neuronales Convolucionales (CNN) que apoyan la clasificación de imágenes de señales de tránsito. Esto facilita la interpretación de las señales y tiene aplicaciones en sistemas de asistencia al conductor y gestión del tráfico.
 
 2. **Reconstrucción de Imágenes Dañadas**: Utilizamos Redes Generativas Adversariales (GAN) para procesar y reconstruir imágenes dañadas de señales de tránsito. Esta técnica permite restaurar información crítica de manera precisa y eficiente, mejorando la seguridad vial.
 
@@ -33,11 +33,11 @@ La combinación de generación automática de descripciones y reconstrucción de
 
 ## Conclusión :checkered_flag:
 
-Este proyecto ejemplifica el potencial de la inteligencia artificial para abordar desafíos en el ámbito de la señalización vial. La generación automática de descripciones detalladas y la reconstrucción de imágenes dañadas son pasos importantes hacia la mejora de la seguridad y la eficiencia en nuestras carreteras.
+Este proyecto ejemplifica el potencial de la inteligencia artificial para abordar desafíos en el ámbito de la señalización vial. Laclasificación y la reconstrucción de imágenes dañadas son pasos importantes hacia la mejora de la seguridad y la eficiencia en nuestras carreteras.
 
 ¡Gracias por explorar nuestro proyecto! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros.
 
 ## Desarrollado por: :bookmark_tabs:
-Angie Mogollon
+Angie Mogollon - 
 Jenifer Gómez
 
