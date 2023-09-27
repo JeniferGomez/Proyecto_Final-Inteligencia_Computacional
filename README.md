@@ -1,6 +1,4 @@
-# Generación Automática de Descripciones y Reconstrucción de Señales de Tránsito
-
-![Traffic Signs](traffic-signs.jpg)
+# Generación Automática de Descripciones y Reconstrucción de Señales de Tránsito :red_car: :vertical_traffic_light:
 
 ## Descripción del Proyecto
 
